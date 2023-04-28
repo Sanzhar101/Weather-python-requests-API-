@@ -1,7 +1,7 @@
 import requests
 import json
 
-api_key = "afe3e0e9770c14ebcaf48e841cacf4e1"
+api_key = "API is hidden for safety measures"
 city = input("Enter city name: ")
 
 # make API request for current weather data
