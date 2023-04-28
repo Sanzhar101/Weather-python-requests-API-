@@ -6,7 +6,7 @@ import tkinter as tk
 
 def get_weather():
     # make API request for current weather data
-    api_key = "afe3e0e9770c14ebcaf48e841cacf4e1"
+    api_key = "API is hidden for safety measures"
     city = city_entry.get()
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
     url_img = f"https://img.freepik.com/premium-photo/white-cloud-blue-sky_1203-11307.jpg"
